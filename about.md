@@ -4,12 +4,7 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Mauricio Vera. I'm a software developer from Ciudad del Este, Paraguay.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm currently taking the [Open Source Society University courses](https://ossu.firebaseapp.com/#/),
+[(watch my progress here!)](https://github.com/mauriciv).
